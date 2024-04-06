@@ -65,4 +65,8 @@
     <BaseIntermediateOutputPath>obj\$(MSBuildProjectName)</BaseIntermediateOutputPath>
     <DefaultItemExcludes>$(DefaultItemExcludes);obj/**;bin/**</DefaultItemExcludes>
   </PropertyGroup>
+
+  <ItemGroup>
+
+  </ItemGroup>
 </Project>
